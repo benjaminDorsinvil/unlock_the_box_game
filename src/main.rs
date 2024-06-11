@@ -1,5 +1,6 @@
 use std::io::stdin;
 
+//.....
 enum State {
     Locked, 
     Unlocked, 
